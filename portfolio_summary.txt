@@ -2,4 +2,4 @@
 AAPL - Qty: 5, Price: ₹180, Total: ₹900
 GOOGL - Qty: 4, Price: ₹130, Total: ₹520
 
-💰 Total Investment: ₹1420
+Total Investment: ₹1420
